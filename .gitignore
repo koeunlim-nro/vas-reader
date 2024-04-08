@@ -1,9 +1,5 @@
 # List of untracked files to ignore
 *.bri
 *.prj
-*.asv
-VAS_sample*
 
 # List of folders to ignore
-__pychache__
-resources
