@@ -22,13 +22,13 @@
 ## How to use:
 1. Once cloned into a local directory, run `readVAS` in the command window.<br/>
 
-If the script can automatically read the scales,
+If the script can automatically read the scales,<br/>
 2. A prompt window will appear if the detected marking is correct or not. Click OK if the markings are correct.<br/>
 
-If detected markings are incorrect,
+If detected markings are incorrect,<br/>
 3. Another prompt window will appear to select the incorrect marking(s) or incorrect edge(s). Multiple selection is possible.<br/>
 
-If the script cannot automatically read the scales,
+If the script cannot automatically read the scales,<br/>
 2. Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down),
 3. then mark the patient markings (top-down) with mouse clicks. <br/>
 
