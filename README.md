@@ -11,11 +11,11 @@
 ## Followings are provided in the repository:
 - 1 main script - readVAS
 - 3 function mfiles for processing VAS scans
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. normalize_img.m - image pre-processing
-2. auto_readVASscores.m - automatically detects VAS scales and markings
-3. semi_auto_readVASscores.m - adds user-interface to manually mark VAS scales and patient markings when automatic detection fails
+    - normalize_img.m - image pre-processing
+    - auto_readVASscores.m - automatically detects VAS scales and markings
+    - semi_auto_readVASscores.m - adds user-interface to manually mark VAS scales and patient markings when automatic detection fails
 - 1 function python script
-1. convert_pdf_to_img.py - converts pdf scan to jpg
+    - convert_pdf_to_img.py - converts pdf scan to jpg
 - VAS_template.pdf & VAS_template.jpg - use VAS_template.pdf for data collection. JPEG format is used for the algorithm.
 - 3 samples (VAS_sample_01~03.pdf) to test the algorithm.
 <br/>
