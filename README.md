@@ -2,7 +2,7 @@
 
 ## System requirements:
 - python 3.8 or above <s\>
-  : type `pyenv` in MATLAB command to check if your MATLAB is configured for python & see python version information.<s\>
+  : type `pyenv` in MATLAB command to check if your MATLAB is configured for python & see python version information.<br/>
   [Configure Your System to Use Python] (https://www.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html)
 - python package pdf2image <s\>
   : type `!pip install pdf2image` in MATLAB command window
