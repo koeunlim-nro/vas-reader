@@ -7,7 +7,7 @@
 - python package pdf2image
   : type `!pip install pdf2image` in MATLAB command window
 - MATLAB image processing toolbox
-<br>
+<br\>
 ## Followings are provided in the repository:
 - 1 main script - readVAS
 - 3 function mfiles for processing VAS scans
@@ -18,7 +18,7 @@
 (1) convert_pdf_to_img.py - converts pdf scan to jpg
 - VAS_template.pdf & VAS_template.jpg - use VAS_template.pdf for data collection. JPEG format is used for the algorithm.
 - 3 samples (VAS_sample_01~03.pdf) to test the algorithm.
-<br>
+<br\>
 ## How to use:
 (1) Once cloned into a local directory, run readVAS in the command window.
 (A) If the script can automatically read the scales,
@@ -26,5 +26,5 @@
 If detected markings are incorrect,
 (3A) Another prompt window will appear to select the incorrect marking(s) or incorrect edge(s). Multiple selection is possible.
 (B) If the script cannot automatically read the scales,
-(2B) Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down), then mark the patient markings (top-down) with mouse clicks. <br>
+(2B) Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down), then mark the patient markings (top-down) with mouse clicks. <br\>
 Annotated output image file will be saved in the same directory.
