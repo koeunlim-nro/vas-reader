@@ -20,19 +20,15 @@
 - 3 samples (VAS_sample_01~03.pdf) to test the algorithm.
 
 ## How to use:
-1. Once cloned into a local directory, run `readVAS` in the command window.<br/>
+(1) Once cloned into a local directory, run `readVAS` in the command window.<br/><br/>
 
-If the script can automatically read the scales,
-
-2. A prompt window will appear if the detected marking is correct or not. Click OK if the markings are correct.<br/>
-
+If the script can automatically read the scales,<br/>
+(2) A prompt window will appear if the detected marking is correct or not. Click OK if the markings are correct.<br/>
 If detected markings are incorrect,<br/>
-
-3. Another prompt window will appear to select the incorrect marking(s) or incorrect edge(s). Multiple selection is possible.<br/>
+(3) Another prompt window will appear to select the incorrect marking(s) or incorrect edge(s). Multiple selection is possible.<br/><br/>
 
 If the script cannot automatically read the scales,<br/>
+(2) Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down),<br/>
+(3) then mark the patient markings (top-down) with mouse clicks. <br/><br/>
 
-2. Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down),
-3. then mark the patient markings (top-down) with mouse clicks. <br/><br/>
-
-4. Annotated output image file will be saved in the same directory.
+(4) Annotated output image file will be saved in the same directory.
