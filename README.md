@@ -8,7 +8,3 @@
   : type `!pip install pdf2image` in MATLAB command window
 - MATLAB image processing toolbox
 <br/>
-## Followings are provided in the repository:
-- 1 main script - readVAS
-- 3 function mfiles for processing VAS scans
-
