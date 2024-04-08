@@ -2,7 +2,6 @@
 *.bri
 *.prj
 *.asv
-VAS_template*
 
 # List of folders to ignore
 __pycache__
