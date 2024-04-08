@@ -1,5 +1,10 @@
 # List of untracked files to ignore
 *.bri
 *.prj
+*.asv
+VAS_sample*
+VAS_template*
 
 # List of folders to ignore
+__pycache__
+resources
