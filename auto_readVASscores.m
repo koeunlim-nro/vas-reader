@@ -189,7 +189,7 @@ answer1 = questdlg('Are VAS markings correct?', ...
 % Handle response
 switch answer1
     case 'Yes'
-        disp(['Saving the verified results for ' T_vas_i.output_path{1}(96:end-4)])
+        disp(['Saving the verified results for ' T_vas_i.output_path{1}])
     case 'No'
         disp('Launching semi-automatic algorithm...')
         sel_scale = listdlg('PromptString',{'Select the scale(s) to correct:'},'ListString',{'1','2','3','Need to adjust edge(s)'},'ListSize',[150,60]);
