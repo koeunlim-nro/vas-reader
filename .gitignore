@@ -2,5 +2,8 @@
 *.bri
 *.prj
 *.asv
+VAS_sample*
 
 # List of folders to ignore
+__pychache__
+resources
