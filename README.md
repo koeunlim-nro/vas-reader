@@ -20,7 +20,7 @@
 - 3 samples (VAS_sample_01~03.pdf) to test the algorithm.
 
 ## How to use:
-1. Once cloned into a local directory, run readVAS in the command window.<br/>
+1. Once cloned into a local directory, run readVAS in the command window.<br/><br/>
 If the script can automatically read the scales,
 2. A prompt window will appear if the detected marking is correct or not. Click OK if the markings are correct.<br/>
 If detected markings are incorrect,
