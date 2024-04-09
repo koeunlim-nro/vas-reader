@@ -26,15 +26,15 @@
 (3) Select a VAS pdf scan to read when prompted.<br/><br/>
 
 If the script can automatically read the scales,<br/>
-(2) A prompt window will appear if the detected marking is correct or not. Click OK if the markings are correct.<br/>
+(4) A prompt window will appear if the detected marking is correct or not. Click OK if the markings are correct.<br/>
 If detected markings are incorrect,<br/>
-(3) Another prompt window will appear to select the incorrect marking(s) or incorrect edge(s). Multiple selection is possible.<br/><br/>
+(5) Another prompt window will appear to select the incorrect marking(s) or incorrect edge(s). Multiple selection is possible.<br/><br/>
 
 If the script cannot automatically read the scales,<br/>
-(2) Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down),<br/>
-(3) then mark the patient markings (top-down) with mouse clicks. <br/><br/>
+(4) Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down),<br/>
+(5) then mark the patient markings (top-down) with mouse clicks. <br/><br/>
 
-(4) Annotated output image file will be saved in the same directory.
+(6) Annotated output image file will be saved in the same directory.
 
 ## Example input and output:
 Input: VAS_sample_01.pdf<br/>
