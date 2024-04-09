@@ -38,6 +38,6 @@ If the script cannot automatically read the scales,<br/>
 
 ## Example input and output:
 Input: VAS_sample_01.pdf
-![alt text](https://github.com/koeunlim-nro/vas-reader/blob/main/resources/VAS_sample_01.jpg "VAS Questionnaire Sample 1")
+![alt text](https://github.com/koeunlim-nro/vas-reader/blob/main/resources/VAS_sample_01.jpg "VAS Questionnaire Sample 1")<br/>
 Output: VAS_sample_01_output.png
 ![alt text](https://github.com/koeunlim-nro/vas-reader/blob/main/resources/VAS_sample_01_output.png "Annotated VAS output 1")
