@@ -37,7 +37,7 @@ If the script cannot automatically read the scales,<br/>
 (4) Annotated output image file will be saved in the same directory.
 
 ## Example input and output:
-Input: VAS_sample_01.pdf
+Input: VAS_sample_01.pdf<br/>
 ![alt text](https://github.com/koeunlim-nro/vas-reader/blob/main/resources/VAS_sample_01.jpg "VAS Questionnaire Sample 1")<br/>
-Output: VAS_sample_01_output.png
+Output: VAS_sample_01_output.png<br/>
 ![alt text](https://github.com/koeunlim-nro/vas-reader/blob/main/resources/VAS_sample_01_output.png "Annotated VAS output 1")
