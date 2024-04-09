@@ -34,7 +34,7 @@ If the script cannot automatically read the scales,<br/>
 (4) Whole scan will appear for the user to mark the edges of the scales first (left-right, top-down),<br/>
 (5) then mark the patient markings (top-down) with mouse clicks. <br/><br/>
 
-(6) Annotated output image file will be saved in the same directory.
+(6) Annotated output image file will be saved in the same directory as the original scan.
 
 ## Example input and output:
 Input: VAS_sample_01.pdf<br/>
