@@ -7,7 +7,7 @@
 - python package pdf2image <br/>
   : type `!pip install pdf2image` in MATLAB command window
 - MATLAB image processing toolbox
-- [Target Shooting Font](https://github.com/koeunlim-nro/vas-reader/blob/main/Target Shooting.otf)
+- [Target Shooting Font](https://github.com/koeunlim-nro/vas-reader/blob/main/TargetShooting.otf)
 
 ## Followings are provided in the repository:
 - 1 main script : readVAS
