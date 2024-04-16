@@ -16,7 +16,7 @@
     - semi_auto_readVASscores.m : adds user-interface to manually mark VAS scales and patient markings when automatic detection fails
 - 1 function python script
     - convert_pdf_to_img.py : converts pdf scan to jpg
-- VAS_template.pdf & VAS_template.jpg : use VAS_template.pdf for data collection. JPEG format is used for the algorithm.
+- VAS_template.pdf & VAS_template.jpg : use VAS_template.pdf for data collection. JPEG format is used for the algorithm.<br/>
   ![alt text](https://github.com/koeunlim-nro/vas-reader/blob/main/resources/VAS_template.jpg "VAS Questionnaire Template")
 - 3 samples (VAS_sample_01~03.pdf) to test the algorithm.
 
