@@ -1,4 +1,5 @@
 # vas-reader
+[Release authorization statement] This code is released on behalf of BIOTRONIK Neuro, Clinical Technology and Advanced Concepts Department.<br/>
 
 ## System requirements:
 - python 3.8 or above <br/>
