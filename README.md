@@ -7,7 +7,8 @@
 - python package pdf2image <br/>
   : type `!pip install pdf2image` in MATLAB command window
 - MATLAB image processing toolbox
-- [Target Shooting Font](https://github.com/koeunlim-nro/vas-reader/blob/main/TargetShooting.otf)
+- Target Shooting Font (in resources folder) <br/>
+  : To make a new compatible font available to MATLAB, install the font in Windows by opening the folder Start->Control Panel->Fonts and selecting File->Install New Font. Then restart MATLAB and the font will be available for use.
 
 ## Followings are provided in the repository:
 - 1 main script : readVAS
